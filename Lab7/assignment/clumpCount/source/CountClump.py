@@ -39,6 +39,6 @@ class CountClump:
     return count
 
 # Example usage:
-nums = [1, 1, 2, 2, 2, 3, 4]
-clump_count = CountClump.count_clumps(nums)
-print(f"Number of clumps: {clump_count}")  # Output: Number of clumps: 3
+# nums = [1, 1, 2, 2, 2, 3, 4]
+# clump_count = CountClump.count_clumps(nums)
+# print(f"Number of clumps: {clump_count}")  # Output: Number of clumps: 3

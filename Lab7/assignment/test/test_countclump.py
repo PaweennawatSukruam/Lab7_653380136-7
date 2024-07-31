@@ -5,7 +5,7 @@
 
 import unittest
 import sys
-sys.path.insert(0,'D:\SQA\SQA-2024\SQA-2024\Lab7\assignment\clumpCount\source')
+sys.path.insert(0,'/workspaces/Lab7_653380136-7/Lab7/assignment/clumpCount/source')
 from CountClump import CountClump
 
 class test_CountClump(unittest.TestCase):
